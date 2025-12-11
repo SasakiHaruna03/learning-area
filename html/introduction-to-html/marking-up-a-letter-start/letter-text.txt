@@ -1,8 +1,9 @@
-<html>
+<htmal lang="ja">
 <head>
-<meta charset="utf-8" />
+<meta charset="utf-8">
 <meta name="author" content="Eleanor">
-<link rel="stylesheet" href="css.txt" />
+<title>mail</title>
+<link rel="stylesheet" href="css.txt">
 Dr. <strong>Eleanor Gaye</strong>
 Awesome Science faculty
 University of Awesome
@@ -13,7 +14,7 @@ USA
 <em>Tel: 123-456-7890</em>
 <em>Email: no_reply@example.com</em>
 
-<time datetime="2016-1-20">20 January 2016
+<time datetime="2016-1-20">20 January 2016</time>
 
 Miss <strong>Eileen Dover</strong>
 4321 Cliff Top Edge
